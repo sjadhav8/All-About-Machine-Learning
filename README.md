@@ -1,1 +1,1 @@
-# All-About-Machine-Learning
+# Credit Rating Prediction
